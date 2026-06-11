@@ -1,0 +1,5 @@
+skill_info:
+  name: zm-translate-from-files
+  version: 1.2.0
+  description: "翻译单个本地 Markdown 或文本文件，支持快翻、精翻、偏好文件与长文分块"
+  category: 工作流

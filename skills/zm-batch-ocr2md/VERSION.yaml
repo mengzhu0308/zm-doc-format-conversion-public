@@ -1,0 +1,5 @@
+skill_info:
+  name: zm-batch-ocr2md
+  version: 0.2.0
+  description: "目录或 manifest 批量图片 OCR 转 Markdown，支持 MCP、远程 API 与本地 OCR"
+  category: 工作流

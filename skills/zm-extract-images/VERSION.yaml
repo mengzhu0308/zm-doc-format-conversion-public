@@ -1,0 +1,5 @@
+skill_info:
+  name: zm-extract-images
+  version: 0.1.2
+  description: 从 PDF/Word/PPT 中提取内嵌图片资源
+  category: 工作流

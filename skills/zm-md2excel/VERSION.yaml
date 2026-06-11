@@ -1,0 +1,5 @@
+skill_info:
+  name: zm-md2excel
+  version: 0.1.4
+  description: "从本地 Markdown 文件中提取表格并保存为 xlsx 或 csv"
+  category: 工作流

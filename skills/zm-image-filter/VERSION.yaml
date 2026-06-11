@@ -1,0 +1,5 @@
+skill_info:
+  name: zm-image-filter
+  version: 0.1.2
+  description: "基于感知哈希(dHash)过滤内容相同或高度相似的图片"
+  category: 工作流

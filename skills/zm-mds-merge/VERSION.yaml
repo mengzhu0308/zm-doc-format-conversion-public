@@ -1,0 +1,5 @@
+skill_info:
+  name: zm-mds-merge
+  version: 0.2.0
+  description: "将本地多个 Markdown 文件按标题结构智能合并为一个统一文档"
+  category: 工作流

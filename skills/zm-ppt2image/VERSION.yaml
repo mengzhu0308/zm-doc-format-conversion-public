@@ -1,0 +1,5 @@
+skill_info:
+  name: zm-ppt2image
+  version: 1.4.1
+  description: "将本地 PPT/PPTX 转为图片，并补充 LibreOffice UNO 集成说明"
+  category: 工作流

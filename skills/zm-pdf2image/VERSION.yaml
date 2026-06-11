@@ -1,0 +1,5 @@
+skill_info:
+  name: zm-pdf2image
+  version: 1.1.0
+  description: "将本地 PDF 文件或目录下批量 PDF 转换为图片（PNG/JPG）"
+  category: 工作流

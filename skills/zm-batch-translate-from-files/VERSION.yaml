@@ -1,0 +1,5 @@
+skill_info:
+  name: zm-batch-translate-from-files
+  version: 0.1.5
+  description: "批量翻译本地 Markdown 或文本文件，支持目录当前层和 JSON/TXT 清单输入"
+  category: 工作流

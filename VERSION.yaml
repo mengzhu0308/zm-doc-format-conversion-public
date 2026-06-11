@@ -1,0 +1,4 @@
+project_info:
+  name: zm-doc-format-conversion-public
+  version: 0.1.13
+  description: "面向 Codex CLI/Claude Code 的文档格式转换 Agent Skill 集合"

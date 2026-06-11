@@ -1,0 +1,5 @@
+skill_info:
+  name: zm-zh2en
+  version: 0.2.0
+  description: "多轮中译英会话模式，调用后自动翻译后续中文文本，分析-草稿-审校-定稿流程"
+  category: 工作流

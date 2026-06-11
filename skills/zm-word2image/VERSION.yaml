@@ -1,0 +1,5 @@
+skill_info:
+  name: zm-word2image
+  version: 4.0.1
+  description: "将本地 Word 文档转为图片，并补充 LibreOffice UNO 集成说明"
+  category: 工作流

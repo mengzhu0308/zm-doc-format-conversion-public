@@ -1,0 +1,22 @@
+exclude_paths:
+  - .cache
+  - .claude
+  - .codex
+  - .kimi
+  - .git
+  - .hg
+  - .gemini
+  - .svn
+  - __pycache__
+  - build
+  - dist
+  - .serena
+  - skills/.claude
+  - assets
+exclude_globs:
+  - "*.pyc"
+  - "*.tmp"
+  - "*.tmp.*"
+  - "*~"
+  - "*.swp"
+  - "*.swo"

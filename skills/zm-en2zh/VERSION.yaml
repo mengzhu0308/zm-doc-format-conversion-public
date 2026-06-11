@@ -1,0 +1,5 @@
+skill_info:
+  name: zm-en2zh
+  version: 0.3.1
+  description: "多轮英译中，会话文本翻译，分析-草稿-审校-定稿流程"
+  category: 工作流

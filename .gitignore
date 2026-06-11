@@ -1,0 +1,20 @@
+# 与 project-publish/release.yaml 的 exclude_paths / exclude_globs 对齐
+# 这样本地状态文件（.cache、IDE/Agent 缓存）既不会进 git，也不会被打进 release。
+.cache/
+.claude/
+.codex/
+.kimi/
+.gemini/
+.serena/
+skills/.claude/
+assets/
+__pycache__/
+build/
+dist/
+
+*.pyc
+*.tmp
+*.tmp.*
+*~
+*.swp
+*.swo
